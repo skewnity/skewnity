@@ -13,8 +13,8 @@ body{
 
 
 .avatar{
-    height: 50vw;
-    width: 50vw;
+    height: 40vw;
+    width: 40vw;
 
     position: absolute;
     top: 50%;
@@ -28,7 +28,10 @@ body{
 
 
     opacity: .5;
+
+    cursor: crosshair;
 }
 .avatar:hover{
-    
+    opacity: 1;
+    filter: hue-rotate(69deg);
 }
