@@ -13,8 +13,8 @@ body{
 
 
 .avatar{
-    height: 40vw;
-    width: 40vw;
+    height: 300px;
+    width: 300px;
 
     position: absolute;
     top: 50%;
